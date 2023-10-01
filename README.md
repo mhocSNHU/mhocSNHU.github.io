@@ -6,4 +6,4 @@ Code Review Pre-Enhancements:
 
 Jukebox Application:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox"> Code Review </a>
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox"> Jukebox </a>
