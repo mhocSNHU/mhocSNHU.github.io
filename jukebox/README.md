@@ -8,15 +8,19 @@ The database class is built around a backend database. This section will go over
 
 Database Tables:
 
+![Database Tablevs](/assets/images/DB.png)
+
 Artists:
 
-	artistID	artistNAME
-	
-	The artistID serves as the primary key for the artist table while the artistNAME is the only descriptive component 
- 	of the artist table. This table is designed to be expandable, so other artist attributes would be easy to add
-  	as long as the database file was properly updated.
-	
-	Examples of new attributes could be addition date and number of songs.
+```
+artistID	artistNAME
+
+The artistID serves as the primary key for the artist table while the artistNAME is the only descriptive component 
+of the artist table. This table is designed to be expandable, so other artist attributes would be easy to add
+as long as the database file was properly updated.
+
+Examples of new attributes could be addition date and number of songs.
+```
 
 Songs:
 
@@ -145,6 +149,9 @@ User Interface:
 The given user interface provides the user with ways to interact with every primary component of the database. The provided UI is broken into two components. These two components are the login and menu components. 
 
 Login Commands:
+
+![Login Interface](/assets/images/Login.png)
+
 ```
 quit – Exit App
 
@@ -154,6 +161,9 @@ new – Create a new user
 ```
 
 Menu:
+
+![Main Interface](/assets/images/MainMenu.png)
+
 ```
 new artist – create new artist
 
