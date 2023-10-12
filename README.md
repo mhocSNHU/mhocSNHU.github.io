@@ -6,7 +6,7 @@ Code Review Pre-Enhancements:
 
 Jukebox Application Main Page:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox"> Jukebox </a>
+<a href="https://mhocsnhu.github.io/jukebox/"> Jukebox </a>
 
 Chess Main Page:
 
