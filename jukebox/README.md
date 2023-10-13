@@ -191,9 +191,21 @@ quit - quit
 ```
 
 
-Jukebox Codebase:
+Jukebox Initial Codebase:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox"> Codebase</a>
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/InitialCode/jukebox/src/">Initial Codebase</a>
+
+Jukebox Initial Code Download:
+
+<a href="https://mhocsnhu.github.io/InitialCode/InitialJukebox.zip">Initial Codebase Download</a>
+
+Jukebox Enhanced Codebase:
+
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox">Enhanced Codebase</a>
+
+Jukebox Enhanced Code Download:
+
+<a href="https://mhocsnhu.github.io/jukebox/EnhancedJukebox.zip">Enhanced Codebase Download</a>
 
 Narratives:
 
