@@ -4,6 +4,7 @@ Each narrative goes over the individual enhancements made in a single week and h
 
 Since each week's work was broken up by subject, the narratives are broken up by subject as follows:
 
+
 **Software Engineering - W3 Narrative - Project: Jukebox Application:**
 
 <a href="https://mhocsnhu.github.io/narratives/HockingW3Nar"> Week 3 Narrative</a>
@@ -15,3 +16,7 @@ Since each week's work was broken up by subject, the narratives are broken up by
 **Databases - W5 Narrative - Project: Jukebox Application:**
 
 <a href="https://mhocsnhu.github.io/narratives/HockingW5Nar"> Week 5 Narrative</a>
+
+**Project Proposal Download:**
+
+<a href="https://mhocsnhu.github.io/narratives/HockingProposal.docx"> Project Proposal</a>
