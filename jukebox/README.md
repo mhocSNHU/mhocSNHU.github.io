@@ -187,3 +187,13 @@ play – play a playlist
 
 quit - quit
 ```
+
+Narratives:
+
+Software Engineering Component:
+
+<a href="https://mhocsnhu.github.io/narratives/HockingW3Nar.docx"> Week 3 Narrative</a>
+
+Datebase Component:
+
+<a href="https://mhocsnhu.github.io/narratives/HockingW5Nar.docx"> Week 5 Narrative</a>
