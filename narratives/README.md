@@ -17,6 +17,10 @@ Since each week's work was broken up by subject, the narratives are broken up by
 
 <a href="https://mhocsnhu.github.io/narratives/HockingW5Nar"> Week 5 Narrative</a>
 
+**Course Objectives - W7 Narrative - Project: Jukebox & Chess:**
+
+<a href="https://mhocsnhu.github.io/narratives/HockingW7Nar"> Week 7 Narrative</a>
+
 **Project Proposal Download:**
 
 <a href="https://mhocsnhu.github.io/narratives/HockingProposal.docx"> Project Proposal</a>
