@@ -29,4 +29,4 @@ I make the current implementation only look through a single set of turns, but m
 
 Narrative:
 
-<a href="https://mhocsnhu.github.io/narratives/HockingW4Nar.docx"> Week 4 Narrative</a>
+<a href="https://mhocsnhu.github.io/narratives/HockingW4Nar"> Week 4 Narrative</a>
