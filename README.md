@@ -25,7 +25,7 @@ The jukebox application is a command prompt-based app that evolved from storing 
 
 The chess application was initially a simple two-player local chess app that received the addition of an information menu to record the current state of the game alongside a MinMax chess AI to play against.
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/chess"> Chess Main Page</a>
+<a href="https://mhocsnhu.github.io/chess/"> Chess Main Page</a>
 
 **Narrative Directory:**
 
