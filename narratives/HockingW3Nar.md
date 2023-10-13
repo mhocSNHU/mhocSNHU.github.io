@@ -33,3 +33,7 @@ Functionality added Overview:
 -	Playlist Editing (Including Removal)
 -	Private Playlists
 -	Cascading Components (Could be considered DB function)
+
+
+<a href="https://mhocsnhu.github.io/narratives/HockingW3Nar.docx">Word Document Version</a>
+
