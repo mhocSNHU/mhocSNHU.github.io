@@ -31,4 +31,4 @@ The chess application was initially a simple two-player local chess app that rec
 
 The narratives can be found in each project directory or all together here.
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/narratives"> Narratives</a>
+<a href="https://mhocsnhu.github.io/narratives/"> Narratives</a>
