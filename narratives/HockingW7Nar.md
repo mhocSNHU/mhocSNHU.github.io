@@ -27,3 +27,5 @@ Course Outcome 5:
 Course outcome five was specifically targeted during the addition of a login system in the jukebox application. This feature prevents users from using the application without being registered and limits the playlists each user can see to their own. Alongside this, I also ensured to use SHA hashing to fully secure each user's credentials. This emphasis and targeting of security features to protect the user show that I met this security-based course outcome.
 
 Overall, both of my artifacts show that I met each of the required course goals while exploring a variety of tools within computer science. 
+
+<a href="https://mhocsnhu.github.io/narratives/HockingW7Nar.docx">Word Document Version</a>
