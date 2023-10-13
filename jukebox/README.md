@@ -1,12 +1,14 @@
-Preface: 
+# Jukebox Application
+
+**Preface:**
 
 This document will break down the functions and use cases of the DB connector for the jukebox application alongside the functionality of the provided user interface. Despite there being a provided UI, the application is built to allow for new user interfaces to be built around the database class.
 
-The Database:
+**The Database:**
 
 The database class is built around a backend database. This section will go over both the tables in said database and how to make use of the provided database class.
 
-Database Tables:
+**Database Tables:**
 
 ![Database Tablevs](/assets/images/DB.png)
 
@@ -68,7 +70,7 @@ connect a given playlist to a song. This system allows for each playlist to
 connect to many different songs.
 ```
 
-Database Class:
+**Database Class:**
 
 The database class is built to provide the user with easy access to the database while using the associated classes (artist/song/student). The database class has its functionality broken down into the individual classes they interact with. This means that the provided functions are all broken down into the following groups:
 
@@ -145,7 +147,7 @@ dbSetPlaylistName - Change the name of a pre-existing playlist given its ID and 
 
 
 
-User Interface:
+**User Interface:**
 The given user interface provides the user with ways to interact with every primary component of the database. The provided UI is broken into two components. These two components are the login and menu components. 
 
 Login Commands:
@@ -187,6 +189,11 @@ play – play a playlist
 
 quit - quit
 ```
+
+
+Jukebox Codebase:
+
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/jukebox"> Codebase</a>
 
 Narratives:
 
