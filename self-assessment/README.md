@@ -41,3 +41,6 @@ Although none of the artifacts were particularly collaborative, we were encourag
 Additionally, communication with stakeholders proved to be more important in CS 499 than in any other course throughout my academic career. As each student’s path through the course is completely unique and determined by them, keeping up to date with instructor feedback and reaching out to solve discrepancies was essential to success in such a dynamic course.
 
 Overall, CS 499 has allowed me to showcase additional proficiency in each of the major components of computer science in an accelerated and dynamic environment. It has also allowed me to refine multiple pieces of software to the point of being portfolio pieces and introduced me to a variety of new skills and tools.
+
+<a href="https://mhocsnhu.github.io/self-assessment/HockingProfessionalSA.docx">Word Document Version</a>
+
