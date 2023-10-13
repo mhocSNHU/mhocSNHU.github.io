@@ -29,9 +29,21 @@ I make the current implementation only look through a single set of turns, but m
 
 <a href="https://www.cs.cornell.edu/boom/2004sp/ProjectArch/Chess/algorithms.html"> Additional Resource Used For MinMax Algorithm</a>
 
-Chess Codebase:
+Chess Initial Codebase:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/chess">Codebase</a>
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/InitialCode/chess/src/">Initial Codebase</a>
+
+Chess Initial Code Download:
+
+<a href="https://mhocsnhu.github.io/InitialCode/InitialChess.zip">Initial Codebase Download</a>
+
+Chess Enhanced Codebase:
+
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/chess">Enhanced Codebase</a>
+
+Chess Enhanced Code Download:
+
+<a href="https://mhocsnhu.github.io/chess/EnchancedChess.zip">Enhanced Codebase</a>
 
 Narrative:
 
