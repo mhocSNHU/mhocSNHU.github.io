@@ -192,8 +192,8 @@ Narratives:
 
 Software Engineering Component:
 
-<a href="https://mhocsnhu.github.io/narratives/HockingW3Nar.docx"> Week 3 Narrative</a>
+<a href="https://mhocsnhu.github.io/narratives/HockingW3Nar"> Week 3 Narrative</a>
 
 Datebase Component:
 
-<a href="https://mhocsnhu.github.io/narratives/HockingW5Nar.docx"> Week 5 Narrative</a>
+<a href="https://mhocsnhu.github.io/narratives/HockingW5Nar"> Week 5 Narrative</a>
