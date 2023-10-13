@@ -19,7 +19,7 @@ A reflective document that goes over the skills I gained throughout the entirety
 
 A video format semi-formal review that went over the artifacts before the enhancements were made and touched upon the initial plans for alterations. Do note that changes were made to the plans after this point.
 
-<a href="https://snhu-my.sharepoint.com/:v:/r/personal/matthew_hocking_snhu_edu/Documents/Hocking_Review.mp4?csf=1&web=1&e=bbZQJR"> Code Review Link</a>
+<a href="https://drive.google.com/file/d/1JAHxXX-d3fmOfGyzC2b1BB7eFiSUb-NH/view?usp=sharing"> Code Review Link</a>
 
 **Jukebox Application Main Page:**
 
