@@ -11,16 +11,24 @@ The professional self-assessment reflects upon the work I completed during this 
 
 Code Review Pre-Enhancements:
 
-<a href="https://snhu-my.sharepoint.com/:v:/r/personal/matthew_hocking_snhu_edu/Documents/Hocking_Review.mp4?csf=1&web=1&e=bbZQJR"> Code Review </a>
+A video format semi-formal review that went over the artifacts before the enhancements were made and touched upon the initial plans for alterations. Do note that changes were made to the plans after this point.
+
+<a href="https://snhu-my.sharepoint.com/:v:/r/personal/matthew_hocking_snhu_edu/Documents/Hocking_Review.mp4?csf=1&web=1&e=bbZQJR"> Code Review Link</a>
 
 Jukebox Application Main Page:
 
-<a href="https://mhocsnhu.github.io/jukebox/"> Jukebox </a>
+The jukebox application is a command prompt-based app that evolved from storing information in a large number of Java classes to being based in MySQL and having a massive functionality upgrade.
+
+<a href="https://mhocsnhu.github.io/jukebox/"> Jukebox Main Page</a>
 
 Chess Main Page:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/chess"> Chess </a>
+The chess application was initially a simple two-player local chess app that received the addition of an information menu to record the current state of the game alongside a MinMax chess AI to play against.
+
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/chess"> Chess Main Page</a>
 
 Narrative Directory:
 
-<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/narratives"> Narrative </a>
+The narratives can be found in each project directory or all together here.
+
+<a href="https://github.com/mhocSNHU/mhocSNHU.github.io/tree/main/narratives"> Narratives</a>
