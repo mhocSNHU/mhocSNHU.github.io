@@ -43,7 +43,7 @@ Chess Enhanced Codebase:
 
 Chess Enhanced Code Download:
 
-<a href="https://mhocsnhu.github.io/chess/EnchancedChess.zip">Enhanced Codebase</a>
+<a href="https://mhocsnhu.github.io/chess/EnchancedChess.zip">Enhanced Codebase Download</a>
 
 Narrative:
 
