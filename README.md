@@ -9,6 +9,12 @@ The project proposal goes over the initially planned changes for each artifact a
 The professional self-assessment reflects upon the work I completed during this course alongside my work while pursuing my degree as a whole. This can be found on the self-assessment page or a word variant can be found in the assessment directory of the download.
 
 
+**Professional Self-Assessment:**
+
+A reflective document that goes over the skills I gained throughout the entirety of my computer science academic career thus far while also focusing on the specific artifacts worked on in this course.
+
+<a href="https://mhocsnhu.github.io/self-assessment/"> Professional Self-Assessment</a>
+
 **Code Review Pre-Enhancements:**
 
 A video format semi-formal review that went over the artifacts before the enhancements were made and touched upon the initial plans for alterations. Do note that changes were made to the plans after this point.
